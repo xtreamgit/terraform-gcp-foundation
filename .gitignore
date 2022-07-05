@@ -1,3 +1,8 @@
+# Temporary ignored files
+/0-bootstrap/README-Jenkins.md
+/policy-library/policies/constraints/gke_restrict_client_auth_methods.yaml
+/policy-library/policies/templates/gcp_gke_restriction_client_auth_methods_/v1.yaml
+
 # OSX leaves these everywhere on SMB shares
 ._*
 
